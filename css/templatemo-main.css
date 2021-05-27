@@ -158,6 +158,28 @@ a:hover { color: #FF0; }
   margin-bottom: 0px;
 }
 
+.baner-content h1 #post {
+  color: #ff7d27 !important;
+  margin-top: 0px;
+  font-size: 128px;
+  color: #fff;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  display: inline;
+}
+
+.baner-content h1 #pre {
+  color: #241561 !important;
+  margin-top: 0px;
+  font-size: 128px;
+  color: #fff;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  display: inline;
+}
+
 .baner-content em {
   color: #ff7d27;
   font-weight: 600;
@@ -753,4 +775,8 @@ body.lb-disable-scrolling {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+
+.name-title{
+  color: #241561;
 }
