@@ -144,7 +144,7 @@ a:hover { color: #FF0; }
 
 
 .baner-content {
-  padding-top: 30vh;
+  padding-top: 1vh;
   text-align: center;
   background-image: url(../img/1st-section.jpg);
 }
@@ -782,5 +782,5 @@ body.lb-disable-scrolling {
 }
 
 .logo-redcom{
-  height: 40rem;
+  height: 60rem;
 }
